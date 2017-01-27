@@ -28,7 +28,7 @@ h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold
 
 h2 { font-size: 20px; margin: 0px 0px 6px 0px; position: relative; color: #999}
 
-h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
+h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: 'Lato', Serif; font-size: 16px; color: #999; font-weight: normal; }
 
 p { margin: 0 0 16px 0; }
 
