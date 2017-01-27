@@ -13,11 +13,11 @@
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Lato');
 
 * { margin: 0; padding: 0; }
 
-body { font: 16px Lato, Helvetica, Sans-Serif; line-height: 24px; background: url(../images/noise.jpg); }
+body { font: 16px 'Lato', Helvetica, Sans-Serif; line-height: 24px; background: url(../images/noise.jpg); }
         .clear { clear: both; }
 
 #page-wrap { width: 800px; margin: 40px auto 60px; }
@@ -40,7 +40,7 @@ ul { margin: 0 0 32px 17px; }
 
 #personal-statement { width: 800px; float: left; margin-bottom: 10px;}
 
-#personal-statement p { font-family: Georgia, Serif; font-style: italic; color: #666; }
+#personal-statement p { font-family: 'Droid Serif', Serif; font-style: italic; color: #666; }
 
 dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 20px 0 0; width: 125px; float: left; height: 100px; border-right: 1px solid #999;  }
 
